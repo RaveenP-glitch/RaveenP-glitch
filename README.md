@@ -1,4 +1,4 @@
-![image](https://github.com/RaveenP-glitch/RaveenP-glitch/assets/55187981/0a339e3c-6b43-4a3d-b813-a0d81340d31d)### Hi there 👋
+### Hi there 👋
 ## I am Raveen Panditha! 
 
 👋 Greetings! I'm Raveen Panditha, a seasoned Senior Software Engineer at MadMobileLK, specializing in crafting robust and innovative solutions. Currently, I'm immersed in expanding my expertise in AWS and honing my skills in Software Testing methodologies to ensure top-notch software quality.
