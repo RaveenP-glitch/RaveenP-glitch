@@ -7,10 +7,6 @@
 
 🌐 My current focus involves mastering the intricacies of the MERN stack, and I'm open to collaborative opportunities and discussions in this domain. If you share an interest in Coding, Math, Physics, or Photography, feel free to connect!
 
-💡 Passionate about pushing boundaries, I am actively seeking new Software Engineering opportunities that align with my skills and aspirations. If you have any insights, recommendations, or just want to discuss the latest tech trends, don't hesitate to reach out at raveenpanditha8@gmail.com.
-
-⚡ Beyond coding, I find joy in activities like swimming, photography, video editing, and indulging in a good read. Let's connect and explore the exciting intersection of technology and creativity!
-
 📫 Reach out and let's create something amazing together!
 
 </br>
