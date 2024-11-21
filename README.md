@@ -115,40 +115,6 @@
   
 </br>
 
-## IDEs
-<div style="display: inline_block" class="skills-container">
-  <img height="40" align="center" alt="Erica-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-
-  <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
-
-  <img height="40" align="center" alt="Erica-Js" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png">
-
- <img height="40" align="center" alt="Erica-Ts" height="30" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg">
-
-  <img height="40" align="center" alt="Erica-React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
-
-  <img height="40" align="center" alt="Erica-Redux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1184px-Notepad%2B%2B_Logo.svg.png">
-
-  <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
-
-   <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-
-  <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-</div>
-
-</br>
-
-## Operating Systems
-<div style="display: inline_block" class="skills-container">
- 
-  <img height="40" align="center" alt="Erica-Java" height="33" width="33" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">
-
-  <img height="40" align="center" alt="Erica-Js" height="66" width="42" src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png">
-
- <img height="40" align="center" alt="Erica-Ts" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
-
-</div>
-
 </br>
 
 ## Contact 
