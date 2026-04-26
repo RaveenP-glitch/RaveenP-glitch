@@ -24,7 +24,7 @@
 
 Portfolio: [raveenpanditha.netlify.app](https://raveenpanditha.netlify.app)
 
-## Tech Stack
+## Tech Stack / Technologies Used
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,redux,nextjs,nodejs,python,php" alt="Primary technologies" />
@@ -55,7 +55,7 @@ Portfolio: [raveenpanditha.netlify.app](https://raveenpanditha.netlify.app)
   <a href="https://x.com/raveen9011234">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://instagram.com/lodiya_labs">
+  <a href="https://instagram.com/the_lodiya">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:raveenpanditha8@gmail.com">
