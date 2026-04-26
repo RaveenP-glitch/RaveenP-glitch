@@ -33,7 +33,7 @@ Portfolio: [raveenpanditha.netlify.app](https://raveenpanditha.netlify.app)
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,mysql,docker,git,github,bitbucket,aws" alt="Frontend and cloud tools" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,jenkins,jest,jira,figma,wordpress,c,maven,yarn,npm" alt="Build and workflow tools" />
+  <img src="https://skillicons.dev/icons?i=vite,jenkins,jest,figma,wordpress,c,maven,yarn,npm,postman" alt="Build and workflow tools" />
 </p>
 
 ## GitHub Stats
@@ -63,9 +63,9 @@ Portfolio: [raveenpanditha.netlify.app](https://raveenpanditha.netlify.app)
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/RaveenP-glitch/RaveenP-glitch/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
-</p>
+</p> -->
 
 
 
